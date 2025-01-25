@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" />](https://www.facebook.com/mdmrm.munna.3?mibextid=JRoKGi)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" />](https://www.facebook.com/mdmrm.munna.3)
 [<img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="LinkedIn" width="30" />](https://www.linkedin.com/in/md-mustafijur-rahman-munna)
 
 # 💻 TECH STACK & TOOLS:
