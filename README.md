@@ -5,7 +5,7 @@
 <br>🧑‍💻 I'm currently learning about PHP(Laravel), and MySQL<br>🤪 Fun fact some errors break my heart 😒😅<br>👀 I’m looking to collaborate with any Open-Source web development projects<be> 🤝 Reach out to me: mdmustafijurrahmanmunna@gmail.com <br> 👀[View My CV](https://drive.google.com/file/d/1aJBdNEE4fxjoCYAM18qUv_9Z_c2Olumv/view?usp=sharing)🧑‍💻
 
 
-## 🌐 Socials Media:
+## 🌐 Social Media:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" />](https://www.facebook.com/mdmrm.munna.3)
 [<img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="LinkedIn" width="30" />](https://www.linkedin.com/in/md-mustafijur-rahman-munna)
 
