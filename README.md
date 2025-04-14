@@ -2,7 +2,7 @@
 
 # 💫 ABOUT ME:
 🧑‍💻I'm a front-end developer🎨passionate about creating interactive, user-friendly websites, With a strong❤️‍🔥love for JavaScript, I constantly learn new tools and techniques to enhance my skills and deliver seamless, dynamic web experiences.<br><br> 🧰 Check out all of my projects in my [portfolio](https://mustafijur-dev713.netlify.app/)
-<br>🧑‍💻 I'm currently learning about PHP(Laravel), and MySQL<br>🤪 Fun fact some errors break my heart 😒😅<br>👀 I’m looking to collaborate with any Open-Source web development projects<be> 🤝 Reach out to me: mdmustafijurrahmanmunna@gmail.com <br> 👀[View My CV](https://drive.google.com/file/d/1aJBdNEE4fxjoCYAM18qUv_9Z_c2Olumv/view?usp=sharing)🧑‍💻
+<br>🧑‍💻 I'm currently learning about PHP(Laravel),and MySQL<br>🤪 Fun fact some errors break my heart 😒😅<br>👀 I’m looking to collaborate with any Open-Source web development projects<be> 🤝 Reach out to me: mdmustafijurrahmanmunna@gmail.com <br> 👀[View My CV](https://drive.google.com/file/d/1aJBdNEE4fxjoCYAM18qUv_9Z_c2Olumv/view?usp=sharing)🧑‍💻
 
 
 ## 🌐 Social Media:
