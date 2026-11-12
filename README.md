@@ -3,43 +3,47 @@
 <!--   Repo: mdmrmmunna3/mdmrmmunna3  →  paste this file as README.md -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- 🌊 ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Mustafijur%20Rahman%20Munna&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20JavaScript%20Lover%20%7C%20Laravel%20Learner&descAlignY=58&descSize=16" alt="Header wave — Md. Mustafijur Rahman Munna" />
+<!-- 🌊 ANIMATED WAVE HEADER — v1 banner style, kept as-is -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Mustafijur%20Rahman%20Munna&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=16" alt="Header wave — Md. Mustafijur Rahman Munna" />
 
 <!-- ⌨️ TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Munna+%F0%9F%98%8A;Front-End+Developer+%F0%9F%8E%A8;Passionate+about+JavaScript+%E2%9A%A1;Currently+learning+PHP+%2B+Laravel+%F0%9F%90%98;Building+interactive+web+experiences+%F0%9F%9A%80)](https://github.com/mdmrmmunna3)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Munna+%F0%9F%98%8A;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%E2%9A%99%EF%B8%8F;Building+production+web+systems+%F0%9F%9A%80;Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+MySQL)](https://github.com/mdmrmmunna3)
 
 <br/>
 
-<!-- 👁️ LIVE BADGES — interactive / clickable -->
 <a href="https://github.com/mdmrmmunna3?tab=followers"><img src="https://img.shields.io/github/followers/mdmrmmunna3?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub followers" /></a>
 <a href="https://github.com/mdmrmmunna3"><img src="https://komarev.com/ghpvc/?username=mdmrmmunna3&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
+<img src="https://img.shields.io/badge/Status-Employed%20%C2%B7%20Software%20Engineer-111111?style=for-the-badge" alt="Status — Employed, Software Engineer" />
 <a href="https://mustafijur-dev713.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 <br/>
 
-<!-- 👋 ABOUT — two-column layout -->
+<!-- 👋 ABOUT -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave" /> About Me
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-🧑‍💻 I'm a **Front-End Developer** passionate about creating interactive, user-friendly websites.
+🧑‍💻 I'm a **Full Stack Developer & Software Engineer** working professionally on production systems.
 
-🎨 With a strong love for **JavaScript**, I continually learn new tools and techniques to enhance my skills and deliver seamless, dynamic web experiences.
+💻 I design and build complete web products — from the database to the interface. Production APIs, enterprise ERP modules and full-stack applications, shipped and in use.
 
-🌱 I'm currently learning **PHP (Laravel)** and **MySQL**
+💼 Currently working as a **Software Engineer (Full Stack)** — **Employed**
 
-🤝 I'm looking to collaborate with any **Open-Source** web development projects
+🚀 I build ERP platforms, hotspot / ISP management systems and business web applications
+
+🤝 I'm looking to collaborate on serious **Open-Source** web development projects
 
 🤪 Fun fact: *some errors break my heart* 😒😅
 
 📫 Reach out to me: **mdmustafijurrahmanmunna@gmail.com**
+
+🧰 Check out all of my projects in my [portfolio](https://mustafijur-dev713.netlify.app/)
 
 </td>
 <td width="42%" valign="top">
@@ -47,15 +51,16 @@
 ```javascript
 const munna = {
   name: "Md. Mustafijur Rahman Munna",
-  role: "Front-End Developer",
-  code: ["JavaScript", "React",
-         "PHP", "Laravel"],
-  tools: ["Tailwind CSS", "Vite",
-          "Firebase", "MySQL"],
-  focus: "Interactive & dynamic UI",
-  learning: ["Laravel", "MySQL"],
-  openTo: "Open-Source collab 🤝",
-  challenge: "One new thing, daily"
+  role: "Full Stack Developer",
+  title: "Software Engineer",
+  status: "Employed",
+  server: ["PHP", "Laravel",
+           "REST APIs", "MySQL"],
+  client: ["JavaScript", "React",
+           "Next.js", "Tailwind CSS"],
+  tools: ["Git", "Vite", "Firebase"],
+  focus: "Production systems",
+  openTo: "Open-Source collab 🤝"
 };
 ```
 
@@ -87,7 +92,7 @@ const munna = {
 
 <div align="center">
 
-### 🎨 Frontend
+### 🎨 Client & Interface
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -99,7 +104,7 @@ const munna = {
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Server & Database
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -136,12 +141,10 @@ const munna = {
 
 </div>
 
-<!-- 📈 ACTIVITY GRAPH — smooth animated line -->
 ### 📈 Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdmrmmunna3&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
 
-<!-- 🐍 SNAKE ANIMATION -->
 ### 🐍 Watch the Snake Eat My Contributions
 
 <picture>
@@ -154,7 +157,6 @@ const munna = {
 
 ---
 
-<!-- 🏆 TROPHIES + QUOTE + TOP REPO -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -181,17 +183,17 @@ const munna = {
 
 ---
 
-<!-- 🔽 INTERACTIVE COLLAPSIBLE SECTIONS -->
 ## 🔍 More About Me — Click to Expand
 
 <details>
-<summary><b>🎯 What I'm focusing on right now</b></summary>
+<summary><b>🎯 What I build</b></summary>
 <br/>
 
-- 🔭 Building modern, responsive front-end projects with **React + Tailwind CSS**
-- 🌱 Going deeper into **PHP, Laravel & MySQL** for full-stack work
+- 🔭 Production web systems with **Laravel, React, Next.js & MySQL**
+- 🏢 Enterprise **ERP modules** and business applications in daily use
+- 📡 **Hotspot / ISP management** platforms and REST APIs
 - 👯 Open to collaborate on **Open-Source web development** projects
-- 💬 Ask me about **JavaScript, React, and responsive UI**
+- 💬 Ask me about **PHP, Laravel, JavaScript, React and REST APIs**
 
 </details>
 
@@ -230,36 +232,13 @@ jobs:
 
 </details>
 
-<details>
-<summary><b>👀 Preview — এই প্রোফাইলটা দেখতে কেমন হবে</b></summary>
-<br/>
-
-উপর থেকে নিচে যা যা দেখা যাবে:
-
-| # | Section | যা দেখবে |
-|---|---------|----------|
-| 1 | 🌊 Wave Header | বেগুনি-নীল gradient ঢেউ animation-এ তোমার নাম + title |
-| 2 | ⌨️ Typing Animation | টাইপ হয়ে মুছে আবার টাইপ হবে — 5টা লাইন ঘুরে ঘুরে |
-| 3 | 👁️ Live Badges | Followers সংখ্যা + Profile Views কাউন্টার (লাইভ বাড়ে) |
-| 4 | 👋 About Me | বামে পরিচিতি, ডানে JavaScript code-এ তোমার profile |
-| 5 | 🌐 Connect | Facebook, LinkedIn, Gmail, Portfolio, CV — বড় clickable বাটন |
-| 6 | 💻 Tech Stack | Frontend / Backend / Tools — 3 ভাগে গোছানো badge |
-| 7 | 📊 GitHub Stats | Stats কার্ড + Top Languages + Streak — সব লাইভ ডেটা |
-| 8 | 📈 Activity Graph | মসৃণ ঢেউয়ের মতো animated contribution লাইন |
-| 9 | 🐍 Snake | সাপটা তোমার contribution graph খেয়ে এগিয়ে যাবে |
-| 10 | 🏆 Trophies & Quote | Trophy সারি + প্রতিদিন বদলানো Random Dev Quote |
-
-> 💡 এই ফাইলটা Muse-এ preview করলেই উপরের সব section লাইভ দেখতে পাবে — GitHub-এ দিলে animation গুলো (typing, wave, snake, graph) চলতে থাকবে।
-
-</details>
-
 ---
 
 <div align="center">
 
 ### 💬 Let's Build Something Amazing Together!
 
-**Open to collaboration, freelance & open-source — ইনবক্স সবসময় খোলা 📩**
+**Full Stack Developer | Software Engineer — open to collaboration & open-source 📩**
 
 <a href="mailto:mdmustafijurrahmanmunna@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-mdmustafijurrahmanmunna@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello by email" /></a>
 
