@@ -1,197 +1,106 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  Md. Mustafijur Rahman Munna — GitHub Profile README  ·  v2        -->
-<!--  Setup: create a PUBLIC repo named exactly `mdmrmmunna3`           -->
-<!--  (same as the username), paste this whole file as its README.md,   -->
-<!--  and commit. That is all — every card below updates itself.        -->
-<!--  No GitHub Action or extra file is needed.                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- ▓▓ HERO — full-bleed dark block, emerald gradient, fade-in ▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:064E3B,100:10B981&height=200&section=header&text=Md.%20Mustafijur%20Rahman%20Munna&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=15" alt="Md. Mustafijur Rahman Munna — Full Stack Developer · Software Engineer" />
-
 <div align="center">
 
-### I build web products end to end — interface to database.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,100:26261f&height=150&text=Md.%20Mustafijur%20Rahman%20Munna&fontSize=34&fontColor=a3e635&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=72" width="100%"/>
 
-Production web applications, shipped and maintained: responsive front ends,
-the APIs behind them, and the databases underneath.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=65A30D&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;Software+Engineer;Laravel+%C2%B7+React+%C2%B7+MySQL;Building+Production+Systems;REST+APIs+%C2%B7+ERP+%C2%B7+Web+Apps" alt="Typing SVG" /></a>
 
-<br/>
-
-<img src="https://img.shields.io/github/followers/mdmrmmunna3?label=Followers&style=flat&color=10B981&logo=github&logoColor=white" alt="GitHub followers" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mdmrmmunna3&label=Profile%20Views&color=059669&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/Status-Employed%20%C2%B7%20Software%20Engineer-65a30d?style=for-the-badge" alt="Employed — Software Engineer"/>
 
 </div>
 
-<br/>
+## About Me
 
-<!-- ═══════════════ 01 · PROFILE ═══════════════ -->
-## `01` — Profile
+I'm a **Full Stack Developer & Software Engineer** working professionally on production systems — I design and build complete web products, from the database to the interface.
 
-<table>
-<tr>
-<td width="52%" valign="top">
+- 💼 Currently working as a **Software Engineer (Full Stack)**
+- ⚙️ Backend: **PHP · Laravel · REST APIs · MySQL**
+- 🎨 Frontend: **JavaScript · React · Next.js · Tailwind CSS**
+- 🚀 I build ERP platforms, hotspot / ISP management systems and business web applications
+- 🤝 Open to collaborating on serious open-source web projects
+- 🧰 All of my projects: [portfolio](https://mustafijur-dev713.netlify.app/)
+- 🤪 Fun fact: some errors still break my heart 😒😅
+- 📫 Reach me at **mdmustafijurrahmanmunna@gmail.com**
+- 📄 [View My CV](https://drive.google.com/file/d/1aJBdNEE4fxjoCYAM18qUv_9Z_c2Olumv/view?usp=sharing)
 
-| | |
-|---|---|
-| **Role** | Full Stack Developer / Software Engineer |
-| **Status** | Employed — building production software |
-| **Core** | JavaScript · React · PHP · Laravel |
-| **Focus** | Interactive, user-friendly web experiences |
-| **Collaboration** | Open to Open-Source web projects 🤝 |
-| **Portfolio** | [mustafijur-dev713.netlify.app](https://mustafijur-dev713.netlify.app/) |
-| **Contact** | mdmustafijurrahmanmunna@gmail.com |
-
-</td>
-<td width="48%" valign="top">
-
-```typescript
-const munna: SoftwareEngineer = {
-  name : "Md. Mustafijur Rahman Munna",
-  role : "Full Stack Developer",
-  stack: {
-    frontend: ["React", "JavaScript", "Tailwind"],
-    backend : ["Laravel", "Node.js", "Express"],
-    data    : ["MySQL", "MongoDB", "Firebase"],
-  },
-  ships : "UI → API → Database, end to end",
-  openTo: "Open-Source collaboration",
-  funFact: "Some errors break my heart 😒😅",
+```ts
+const munna = {
+  role: "Full Stack Developer",
+  title: "Software Engineer",
+  status: "Employed",
+  backend: ["Laravel", "PHP", "REST APIs"],
+  frontend: ["React", "JavaScript", "Next.js"],
+  database: ["MySQL", "MongoDB"],
+  shipsToProduction: true
 };
 ```
 
-</td>
-</tr>
-</table>
+## What I Build
 
----
+| Area | What it is | Core stack |
+| --- | --- | --- |
+| **ISP & Hotspot Platforms** | Laravel backends for WiFi hotspot systems — connection APIs, Sanctum-authenticated endpoints, router integrations | Laravel · Sanctum · MySQL |
+| **Enterprise ERP Systems** | Large-scale ERP frontends — navigation architecture, dashboards, module interfaces | React · Next.js · JavaScript |
+| **Full-Stack Web Products** | Complete applications built end to end — data model, API and interface | PHP · React · MySQL |
 
-<!-- ═══════════════ 02 · EXPERTISE ═══════════════ -->
-## `02` — Expertise
+## Connect With Me
 
-<table>
-<tr>
-<td width="33%" valign="top">
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mdmrm.munna.3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mustafijur-rahman-munna)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mustafijur-dev713.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmustafijurrahmanmunna@gmail.com)
 
-### ◈ Interface Engineering
+## Tech Stack & Tools
 
-Interactive, user-friendly interfaces that feel fast and stay responsive on every screen size.
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-`React` · `JavaScript` · `Tailwind CSS` · `Bootstrap`
+### Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-</td>
-<td width="33%" valign="top">
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### ◈ Backend & API Engineering
+### Tools & Design
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-Server-side systems and APIs that power the interface — structured, secure, and built to scale with the product.
-
-`PHP` · `Laravel` · `Node.js` · `Express` · `JWT`
-
-</td>
-<td width="34%" valign="top">
-
-### ◈ Data & Delivery
-
-Data modelling, storage, and deployment — from schema design to a live, maintained release.
-
-`MySQL` · `MongoDB` · `Firebase` · `Git` · `Apache`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════ 03 · STACK ═══════════════ -->
-## `03` — Stack
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,js,react,tailwind,bootstrap,jquery,vite,php,laravel,nodejs,express,mysql,mongodb,firebase,apache,git,github,figma,netlify,vercel&perline=10" alt="Tech stack — HTML, JavaScript, React, Tailwind CSS, Bootstrap, jQuery, Vite, PHP, Laravel, Node.js, Express, MySQL, MongoDB, Firebase, Apache, Git, GitHub, Figma, Netlify, Vercel" />
+![](https://github-readme-stats.vercel.app/api?username=mdmrmmunna3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmrmmunna3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmrmmunna3&theme=dark&hide_border=false" />
 
-<sub>ALSO IN MY TOOLKIT &nbsp;—&nbsp; REACT ROUTER &nbsp;·&nbsp; REACT HOOK FORM &nbsp;·&nbsp; DAISYUI &nbsp;·&nbsp; JWT AUTH &nbsp;·&nbsp; CANVA</sub>
+![](https://github-readme-activity-graph.vercel.app/graph?username=mdmrmmunna3&theme=react-dark&hide_border=true)
 
 </div>
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdmrmmunna3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### Watch the Snake Eat My Contributions
+![Snake animation](https://github.com/mdmrmmunna3/mdmrmmunna3/blob/output/github-contribution-grid-snake.svg)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mdmrmmunna3&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- ═══════════════ 04 · METRICS ═══════════════ -->
-## `04` — Metrics
+<!--
+SNAKE SETUP: create .github/workflows/snake.yml in this repo with:
 
-<div align="center">
-
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmrmmunna3&theme=github_dark" alt="Profile details — contribution summary" />
-
-<br/>
-
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdmrmmunna3&theme=github_dark" alt="Most used languages by commits" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmrmmunna3&theme=github_dark" alt="Repositories per language" />
-
-<br/>
-
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmrmmunna3&theme=github_dark" alt="Commit and contribution stats" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmrmmunna3&theme=github_dark&utcOffset=6" alt="Most productive time of day" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmrmmunna3&background=0D1117&stroke=21262D&ring=10B981&fire=F59E0B&currStreakNum=FFFFFF&currStreakLabel=2DD4BF&sideNums=E5E7EB&sideLabels=9CA3AF&dates=6B7280&hide_border=true" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdmrmmunna3&bg_color=0D1117&color=D1D5DB&line=10B981&point=2DD4BF&area_color=10B981&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-
-</div>
-
----
-
-<!-- ═══════════════ 05 · CONNECT ═══════════════ -->
-## `05` — Connect
-
-<div align="center">
-
-<b><a href="https://mustafijur-dev713.netlify.app/">Portfolio ↗</a></b>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<b><a href="https://www.linkedin.com/in/md-mustafijur-rahman-munna">LinkedIn ↗</a></b>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<b><a href="https://www.facebook.com/mdmrm.munna.3">Facebook ↗</a></b>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<b><a href="https://drive.google.com/file/d/1aJBdNEE4fxjoCYAM18qUv_9Z_c2Olumv/view?usp=sharing">View My CV ↗</a></b>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<b><a href="mailto:mdmustafijurrahmanmunna@gmail.com">Email ↗</a></b>
-
-<br/><br/>
-
-> All of my projects live in my **[Portfolio](https://mustafijur-dev713.netlify.app/)** —
-> the fastest way to reach me is **mdmustafijurrahmanmunna@gmail.com**
-
-</div>
-
-<details>
-<summary><b>Beyond the code — click to expand</b></summary>
-<br/>
-
-- 🤝 I'm looking to collaborate on **Open-Source web development** projects
-- 🤪 Fun fact: *some errors break my heart* 😒😅
-- 💬 Ask me about **JavaScript, React, Laravel, and full-stack web development**
-- 📫 One inbox for everything: **mdmustafijurrahmanmunna@gmail.com**
-
-</details>
-
----
-
-<div align="center">
-
-<sub>MD. MUSTAFIJUR RAHMAN MUNNA &nbsp;·&nbsp; FULL STACK DEVELOPER / SOFTWARE ENGINEER</sub>
-
-<br/>
-
-<sub>— end of file —</sub>
-
-</div>
-
-<!-- ▓▓ FOOTER — diagonal slice, reversed gradient ▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:10B981,45:064E3B,100:0D1117&height=90&section=footer" alt="" />
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mdmrmmunna3
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with: { target_branch: output, build_dir: dist }
+        env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
+-->
