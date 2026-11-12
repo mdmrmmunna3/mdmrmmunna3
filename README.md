@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:7C3AED,100:22D3EE&height=150&text=Md.%20Mustafijur%20Rahman%20Munna&fontSize=34&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,100:26261f&height=150&text=Md.%20Mustafijur%20Rahman%20Munna&fontSize=34&fontColor=a3e635&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=72" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;Software+Engineer;Laravel+%C2%B7+React+%C2%B7+MySQL;Building+Production+Systems;REST+APIs+%C2%B7+ERP+%C2%B7+Web+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=65A30D&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;Software+Engineer;Laravel+%C2%B7+React+%C2%B7+MySQL;Building+Production+Systems;REST+APIs+%C2%B7+ERP+%C2%B7+Web+Apps" alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/badge/Status-Employed%20%C2%B7%20Software%20Engineer-7C3AED?style=for-the-badge" alt="Employed — Software Engineer"/>
+<img src="https://img.shields.io/badge/Status-Employed%20%C2%B7%20Software%20Engineer-65a30d?style=for-the-badge" alt="Employed — Software Engineer"/>
 
 </div>
 
